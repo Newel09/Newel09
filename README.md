@@ -1,7 +1,7 @@
 Hi, I'm Newel Mawunyo Tsogbe 👋
 - 👀 I’m interested in backend engineering and aws cloud solutions
-- 🌱 I’m currently learning backend SE at ALX
-- 💞️ I’m looking to collaborate on building robust backend solutions
+- 🌱 I’m currently learning Backend SE and Data Science at ALX
+- 💞️ I’m looking to collaborate on building robust backend and data solutions
 - 📫 You can reach me:
 - Email: tsogbenewel@gmail.com
 - LinkedIn: www.linkedin.com/in/newel-mawunyo-tsogbe
